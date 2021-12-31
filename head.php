@@ -23,5 +23,5 @@ var _0x5540=['metaKey','event','shiftKey','467012ulvaJz','229983hyzlIQ','97wuigq
 
 <div class="site-wrap">
   <header class="top-bar">
-  <a class="logo" href="index.ssg.php"><img src="resource/img/bn_1_3.png" alt=""></a>
+  <a class="logo" href="index.ssg.php"><img src="./resource/img/bn_1_3.png" alt=""></a>
   </header>
