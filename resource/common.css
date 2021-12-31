@@ -1,0 +1,79 @@
+html,
+body {
+  font-family: 'Teko', 'GongGothicLight', 'GongGothicMedium', 'GongGothicBold', sans-serif;
+}
+
+img {
+  display: block;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #292929;
+  background-size: 1920px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.box_1_1 {
+  position: absolute;
+  top:13px;
+  left: 13px;
+  right: 13px;
+}
+
+.box_2_1 {
+  position: absolute;
+  top:13px;
+  left: 13px;
+  right: 13px;
+}
+
+.box_1_2 {
+  position: absolute;
+  top:477px;
+  left: 1104px;
+  right: 13px;
+}
+
+.top-bar {
+  position: absolute;
+  top: 338px;
+  left: auto;
+  right: 40px;
+  z-index: 3;
+}
+
+
+.section-main-1{
+  max-width:1920px;
+  margin:0 auto;
+}
+
+.box_1_4 {
+  position: absolute;
+  top:550px;
+  left: 1270px;
+}
+
+.chatbox {
+  animation: motion 0.7s linear 0s infinite alternate;
+  margin-top: 0;
+}
+
+@keyframes motion {
+  0% {
+    margin-left: 0px;
+  }
+
+  100% {
+    margin-left: 20px;
+  }
+}
+
+.box_3_1{
+  width: 1256px;
+  margin-top: 13px;
+  margin-left: 13px;
+  height: 708px;
+}
