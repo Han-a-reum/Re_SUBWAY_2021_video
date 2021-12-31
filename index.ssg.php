@@ -7,7 +7,7 @@ $pageCode = "home";
 
 <section class="section-main-1">
     <div class="box_1_1">
-      <img src="./resource/img/bn_1_1.png" alt="">
+      <img src="https://github.com/Han-a-reum/Re_SUBWAY_2021_video/blob/master/resource/img/bn_1_1.png?raw=true" alt="">
     </div>
     <div class="box_1_2">
     <a href="pf.ssg.php"><img src="./resource/img/bn_1_2.png" alt=""></a>
