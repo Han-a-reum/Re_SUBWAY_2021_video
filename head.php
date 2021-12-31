@@ -16,5 +16,5 @@
 
 <div class="site-wrap">
   <header class="top-bar">
-  <a class="logo" href="index.ssg.php"><img src="./resource/img/bn_1_3.png" alt=""></a>
+  <a class="logo" href="index.ssg.php"><img src="https://github.com/Han-a-reum/Re_SUBWAY_2021_video/blob/master/resource/img/bn_1_3.png?raw=true" alt=""></a>
   </header>
